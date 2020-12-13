@@ -1,3 +1,6 @@
+# a-week-in-tweets
+Analyzes a week of a user's tweets. Sentiment analysis, most engaged tweet, most used word, etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
